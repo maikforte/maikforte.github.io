@@ -1,0 +1,58 @@
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Elephant Ventures
+    url: "https://www.elephantventures.com/"
+    location: New York, NY 10004, United States
+    # company overview
+    overview: Delivers innovation – from ideation & engineering to the deployment of tools, platforms & entire integrated digital ecosystems.
+  positions:
+  - designation: Full-Stack Software Engineer
+    start: Feb 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design software architecture solution
+    - As a data engineer, leverages AWS and other SaaS solution to seamlessly transport and transform data requirements
+    - Develop web application solutions
+
+- company:
+    name: E-Science Corporation
+    url: "https://www.electronicscience.com/"
+    location: Alabang, Muntinlupa City
+    # company overview
+    overview: Pioneer in automating the sales force process and business operations of companies in the pharmaceutical and healthcare industry.
+  positions:
+  - designation: Senior Software Developer
+    start: Jan 2016
+    end: Feb 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Led a team mainly focusing on web application development
+    - Maintain quality standard on sales force web application
+    - Provides training and mentoring
+
+  - designation: Mid-Level Software Developer
+    start: Jun 2014
+    end: Dec 2015
+    responsibilities:
+    - Create optimized database transactions for sales force web application
+
+  - designation: Junior Software Developer
+    start: Feb 2013
+    end: May 2014
+    responsibilities:
+    - Sales force web application maintainer
+    - Develops new feature to improve business operations

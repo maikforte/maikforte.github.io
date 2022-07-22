@@ -1,0 +1,9 @@
+# projects:
+# - name: Kubernetes
+#   logo: images/projects/kubernetes.png
+#   role: Contributor
+#   timeline: "March 2018 - Present"
+#   repo: https://github.com/kubernetes/kubernetes
+#   # url: ""
+#   summary: Production-Grade Container Scheduling and Management .
+#   tags: ["professional", "kubernetes", "cloud"]

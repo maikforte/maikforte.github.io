@@ -1,0 +1,17 @@
+name: "Michael 'Maik' Ardan"
+nickname: "Maik"
+image: "images/avatar.jpeg"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "I'm"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "michael.ardan@protonmail.com"
+
+# a summary of what you do
+summary:
+- I am a Full-Stack Engineer
+- I love Pocari Sweat
+- I consume 600mg of caffeine a day
+- and sleeps 4 hours a day

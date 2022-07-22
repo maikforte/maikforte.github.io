@@ -1,0 +1,12 @@
+#homePageBackgroundImageDivStyled {
+    filter: blur(7px);
+}
+
+.initial-navbar .navbar-brand {
+    color: #333333 !important;
+    font-weight: 600;
+}
+
+.nav-link {
+    color: #333333 !important
+}

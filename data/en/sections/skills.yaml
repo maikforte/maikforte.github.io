@@ -1,0 +1,56 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+skills:
+
+- name: NodeJS / ExpressJS
+  logo: /images/nodejs-logo.png
+  summary: "My primary backend REST API for the past 5 years. The API endpoints is modularly design
+    keeping single purpose for each endpoints and services. Worked with several REST API professional
+    and personal projects
+    with NodeJS and ExpressJS."
+  url: "https://nodejs.dev/"
+
+- name: Python
+  logo: /images/python-logo.png
+  summary: "Working as a Data Engineer in my past projects in the last 2 years, Python has been my
+    daily language to deliver data needs for Data Scientists and Marketing team enabling them to
+    produce campaigns and analyze data to forecast the next steps. Python along with Flask is my
+    alternative backend REST API."
+  url: "https://www.python.org/"
+
+- name: ReactJS
+  logo: /images/reactjs-logo.png
+  summary: "My primary frontend framework. ReactJS has been used in 2 of my project as a
+    professional and worked on several personal projects with the framework. My ReactJS project
+    structure follows the ATOMIC design pattern."
+  url: "https://reactjs.org/"
+
+- name: Angular
+  logo: /images/reactjs-logo.png
+  summary: "I started with AngularJS when I heard it from my colleague and created several community
+    project with the framework. I didn't had the chance to use AngularJS professionally until Angular (Angular2)
+    came out. "
+  url: "https://reactjs.org/"
+
+- name: GitHub and GitHub Actions
+  logo: /images/github-logo.png
+  summary: "GitHub has been part of my daily life. Mainly as my repository of past, present, and future
+    works, GitHub has extended to be one of my go-to CICD tool with GitHub Actions"
+  url: "https://github.com/"
+
+- name: Expo.io
+  logo: /images/expo-logo.png
+  summary: "Wrapper for ReactJS project allowing me to deploy across multiple platform.
+    The same ATOMIC design pattern is used in my cross-platform projects."
+  url: "https://expo.dev/"
+
+- name: MySQL / MariaDB / PostgreSQL
+  logo: /images/sql-logo.webp
+  summary: "My parimary RDS. Produced optimized database transactions for backend application and cron jobs
+    making sure that data arrives in quality and in timely manner."
+  url: "https://expo.dev/"
