@@ -53,4 +53,14 @@ skills:
   logo: /images/sql-logo.webp
   summary: "My parimary RDS. Produced optimized database transactions for backend application and cron jobs
     making sure that data arrives in quality and in timely manner."
-  url: "https://expo.dev/"
+  url: "https://www.mysql.com/"
+
+- name: Amazon DynamoDB, MongoDB
+  logo: /images/no-sql-logo.jpg
+  summary: "Nothing much to say but the only 2 NoSQL I primarily use."
+  url: "https://www.mongodb.com/"
+
+- name: Java
+  logo: /images/java-logo.jpeg
+  summary: "Primary language in the first 5 years of my career. Built Rich web applications on top of Java. Paired side-by-side with MySQL and PostgreSQL"
+  url: "https://www.java.com/"

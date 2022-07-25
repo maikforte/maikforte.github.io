@@ -1,9 +1,70 @@
-# projects:
-# - name: Kubernetes
-#   logo: images/projects/kubernetes.png
-#   role: Contributor
-#   timeline: "March 2018 - Present"
-#   repo: https://github.com/kubernetes/kubernetes
-#   # url: ""
-#   summary: Production-Grade Container Scheduling and Management .
-#   tags: ["professional", "kubernetes", "cloud"]
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Personal
+  filter: "personal"
+- name: Front-end
+  filter: "frontend"
+- name: Back-end API
+  filter: "backend"
+- name: Python
+  filter: "python"
+- name: Plugins
+  filter: "plugins"
+- name: JavaScript / TypeScript
+  filter: "javascript"
+- name: ReactJS / React Native
+  filter: "react"
+
+
+projects:
+- name: Slack SCIM
+  role: Author
+  repo: https://github.com/maikforte/slack-scim
+  summary: Wrapper for Slack SCIM allowing consumers to interact with Slack API via Python wrapped modules.
+  tags: ["python", "professional", "plugins"]
+
+- name: Screenshot Blocker
+  role: Contributor
+  repo: https://github.com/maikforte/cordova-plugin-prevent-screenshot-coffice
+  summary: Wrapper for Slack SCIM allowing consumers to interact with Slack API via Python wrapped modules.
+  tags: ["objective-c", "professional", "plugins", "cordova", "mobile"]
+
+- name: Project Redhorse
+  role: Author
+  repo: https://github.com/maikforte/project-redhorse
+  summary: Clone-able Flask project template. Serves as a blueprint for Python backend API projects.
+    The project is complete with API Docs (Flasgger), Unit Test (PyTest), pre-commit config, linter (Flake8), and formatter (Black)
+  tags: ["python", "personal", "flask", "flake8", "flasgger", "black", "backend", "api", "professional"]
+
+- name: Project Shock
+  role: Author
+  repo: https://github.com/maikforte/project-shock
+  summary: Clone-able Expo / React Native project template. Serves as a blueprint for Expo / React Native projects.
+    The project is complete with linting (AirBnB Config), React Wrapper (Expo)
+  tags: ["javascript", "personal", "frontend", "react", "expo", "mobile", "professional"]
+
+- name: Project SLEX
+  role: Author
+  repo: https://github.com/maikforte/project-slex
+  summary: Clone-able JavaScript / ExpressJS project template. Serves as a blueprint for JavaScript backend API projects.
+    The project is complete with linting (AirBnB Config), Unit Test (Mocha/Chai)
+  tags: ["javascript", "personal", "backend", "professional", "api", "mocha", "chai"]
+
+- name: Project Emesel Backend
+  role: Author
+  repo: https://github.com/maikforte/project-emesel-backend
+  timeline: "July 2022 - Present"
+  summary: Community project to help newbies and existing players to compute their Astromon stats equipped
+    with certain gems. Moreover, the project will include PVP and Titan team builder. The backend project also
+    contains crawler to pull data information from the available resources online.
+  tags: ["javascript", "personal", "backend", "api", "crawlers", "community-project"]

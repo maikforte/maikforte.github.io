@@ -27,6 +27,8 @@ params:
 
   background: "images/hero.jpg"
 
+  favicon: "/img/favicon.ico"
+
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
 

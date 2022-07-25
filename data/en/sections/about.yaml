@@ -16,9 +16,10 @@ company:
   url: "https://www.elephantventures.com/"
 
 socialLinks:
-- name: Email
-  icon: "fas fa-envelope"
-  url: "michael.ardan@protonmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/michael-a-3a607962"
 
 - name: Github
   icon: "fab fa-github"
@@ -28,9 +29,9 @@ socialLinks:
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/1844263/michael-maik-ardan"
 
-- name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/michael-a-3a607962"
+- name: Email
+  icon: "fas fa-envelope"
+  url: "michael.ardan@protonmail.com"
 
 badges:
 - type: soft-skill-indicator
